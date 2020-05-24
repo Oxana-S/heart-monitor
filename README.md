@@ -1,5 +1,6 @@
 ## heart-monitor
 ### Simple test site.
+*link: https://oxana-s.github.io/heart-monitor/dist/*
 
 #### Prepared to evaluate my skills in using basic frontend development tools.
 
