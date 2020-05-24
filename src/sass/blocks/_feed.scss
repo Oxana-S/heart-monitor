@@ -1,0 +1,36 @@
+.feed {
+    background: linear-gradient(to top, #7aac5a, rgba(255, 255, 255, 0.2) 100%, #fff0),
+    url('../img/consultation.') no-repeat center #fff;
+    padding-bottom: 71px;
+    &__item {
+        display: flex;
+        margin-top: 100px;
+        &:nth-child(2) {
+            margin-top: 70px;
+        }
+    }
+    &__img {
+        width: 169px;
+        height: 169px;
+    }
+    &__text {
+        margin-left: 62px;
+        padding-right: 60px;
+    }
+    &__subtitle {
+        color: #0d0d0d;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    &__count {
+        color: #646464;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    &__descr {
+        color: #0d0d0d;
+        font-size: 16px;
+        font-weight: 300;
+        margin-top: 10px;
+    }
+}
