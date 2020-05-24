@@ -8,11 +8,13 @@ The following tools were used as an example of code preparation:
  - *CSS/SCSS*, 
  - *JS/JQuery*, 
  - *Gulp*.      
-When coding the site used *flexbox*.
+
+When coding the site, used *Flexbox* and streaming task runner *Gulp*.
 
 The site provides basic blocks, as:
 - *animation of elements and blocks*, 
-- *slide*, 
-- *tabs*, 
+- *slider*, 
+- *tabs*,
+- *popup's*
 - *forms and* 
-- *scripts for forms, popups, connected google map*.
+- *scripts for form's, popup's, connected google map*.
